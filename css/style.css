@@ -183,7 +183,7 @@ header .info .col {
 	font-size: 12px;
 }
 header .info .col {
-	padding-right: 30px;
+	padding-right: 20px;
 }
 header .info .col:last-child {
 	padding-right: 0px;
