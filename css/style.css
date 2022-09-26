@@ -5252,24 +5252,14 @@ blockquote.testimonial-big .title{
 	font-size:26px;
 	font-weight:bold;
 }
-blockquote.testimonial-big:before{
-	display:block;
-	width:100%;
-	font-family:FontAwesome;
-	content: "\f10d";
-	padding-bottom:10px;
-	font-size:28px;
-	display:inline-block;
-	padding:10px 20px 10px 20px;
-	font-style:normal;
-}
+
 blockquote.testimonial-big > img{
-	width:100px !important;
-	margin:30px auto;
+	width:700px !important;
+	margin:10px;
 	height:auto;
 	border-radius:60px;
 	-moz-border-radius:60px;
-	-webkit-border-radius:60px;
+	-webkit-border-radius:20px;
 }
 
 
